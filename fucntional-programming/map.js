@@ -1,4 +1,3 @@
-
 function map(list, cb) {
     let _list = []
 

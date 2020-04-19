@@ -7,7 +7,7 @@
  - Merge sort
  - Remove duplicates (approach a,b & c)
 
-## Link lists 
+## Link-lists 
 
 ## Objects 
 

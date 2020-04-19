@@ -1,4 +1,5 @@
 // Reference - https://codepen.io/btholt/pen/meYQPd?editors=0010
+
 function insertionSort(list) {
     var len = list.length,
         current;

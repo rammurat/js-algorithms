@@ -2,7 +2,6 @@ function removeDuplicatesApproachA(arr) {
     let newArr = []
 
     for (let i = 0; i < arr.length; i++) {
-
         if (newArr.indexOf(arr[i]) === -1) {
             newArr.push(arr[i])
         } 
@@ -15,7 +14,6 @@ function removeDuplicatesApproachB(arr) {
     let temp
 
     for (let i = 0; i < arr.length; i++) {
-
         if (arr[i] !== temp) {
             newArr.push(arr[i])
             temp = arr[i]

@@ -16,3 +16,8 @@
 ## Queues
 
 ## Graphs 
+
+## Functional programming 
+ - .map() 
+ - .filter()
+ - .reduce() 

@@ -21,3 +21,4 @@
  - .map() 
  - .filter()
  - .reduce() 
+ - .curry()

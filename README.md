@@ -22,3 +22,4 @@
  - .filter()
  - .reduce() 
  - .curry()
+ - .memoize()

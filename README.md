@@ -1,4 +1,4 @@
-# js-algorithms
+# JavaScript Algorithms
 
 ## Arrays
  - Bubble sort 
